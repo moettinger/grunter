@@ -1,4 +1,4 @@
-[Demo](http://i.imgur.com/8sgIPVk.png)
+![Demo](http://i.imgur.com/8sgIPVk.png)
 
 grunter
 =======
