@@ -1,4 +1,4 @@
-[Imgur](http://i.imgur.com/8sgIPVk)
+[Imgur](http://i.imgur.com/8sgIPVk.png)
 
 grunter
 =======
