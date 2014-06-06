@@ -9,7 +9,6 @@ A Finder button that can open the current folder in Sublime Text 2, Terminal, an
 
 * Has only been tested on Mac OSX 10.9.3.
 
-Tweaking
-=======
+## Tweaking
 
 If you want to change the application from Sublime Text 2 to another editor, simply open the application in AppleScript Editor and change out "Sublime Text 2" for your application of choice. 
